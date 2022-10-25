@@ -8,7 +8,7 @@
 
 
 ### 👨‍🎓 Resume
-<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/1srqzqN_pzIipcp2H9mt9vPRBIKB48ozj/view"><img src="" alt="N|Solid" width="96" height="28"></a></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/1srqzqN_pzIipcp2H9mt9vPRBIKB48ozj/view"><img src="" alt="" width="96" height="28"></a></p>
 
 <br>
 
