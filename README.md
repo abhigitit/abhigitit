@@ -2,19 +2,19 @@
 
 📍 San Fransisco Bay Area
 <br>
-📧 saikiran.madupu@gmail.com
+📧 abhiteja.mandava98@gmail.com
 </p>
 
 <br>
 
 ### 👨‍🎓 Resume
-<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/file/d/187V1A5jEOTBmlK9ks7zmmeV8cOOsIUM_/view?usp=sharing"><img src="https://raw.githubusercontent.com/1919kiran/1919kiran/c587651a0b7a03c83ad450714cb9d2d5a47222f0/RESUME.svg" alt="N|Solid" width="96" height="28"></a></p>
+<p class="has-line-data" data-line-start="2" data-line-end="3"><a href="https://drive.google.com/drive/u/0/folders/1Jo18Qcds4g2hUQ4-rrzjplMeHhKVyZtT"><img src="https://raw.githubusercontent.com/1919kiran/1919kiran/c587651a0b7a03c83ad450714cb9d2d5a47222f0/RESUME.svg" alt="N|Solid" width="96" height="28"></a></p>
 
 <br>
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-sai-kiran/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikiran.madupu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhitejamandava/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiteja.mandava98@gmail.com)
 
 <br>
 
